@@ -21,3 +21,5 @@ We get the following results:
 2. Naive Bayes - accuracy = 79%
 3. KNN - accuracy = 67%
 4. Neural Network - accuracy = 99%
+
+For more details check out the report in the files above.
